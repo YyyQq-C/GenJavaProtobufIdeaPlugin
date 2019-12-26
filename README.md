@@ -12,6 +12,6 @@
 **How to use**
 > 1.`properties`->`refresh` refresh the panel  
 > 2.`properties`->`setting` this program base config  
-> 3.`ChoseAll` chose all item in list  
+> 3.`ChoseAll` select all item in list  
 > 4.`ClearChose` clear all selected item  
 > 5.`Gen` begin generate all selected item
