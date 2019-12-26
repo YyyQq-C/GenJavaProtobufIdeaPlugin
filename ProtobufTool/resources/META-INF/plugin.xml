@@ -2,16 +2,15 @@
   <id>com.self.plugins.protobuf</id>
   <name>GoogleProtobufTool</name>
   <version>1.0</version>
+  <vendor>YongQc</vendor>
 
   <description><![CDATA[
       generate java protobuf plugin for idea. generate one or more file.<br>
       protobuf生成java文件的IDEA插件.支持生成一个或者多个文件.<br>
-      <em>generate java protobuf</em>
     ]]></description>
 
   <change-notes><![CDATA[
-      first version.<br>
-      <em>generate java protobuf</em>
+      version 1.0 - initial plugin upload<br>
     ]]>
   </change-notes>
 
