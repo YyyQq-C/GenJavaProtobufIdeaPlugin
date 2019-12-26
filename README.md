@@ -4,7 +4,14 @@
 * 插件位于`Tools`按钮下 `Google ProtobufTool`
 * this plugin in `Tools`menu `Google ProtobufTool`
 ---
-**config explain**  
-> protoc: protoc.exe path  
-> protofile: protobuf file path  
-> out path: generate file out path   
+**config explain**  `properties`->`setting`
+> protoc: protoc.exe path  _[global property]_  
+> protofile: protobuf file path  _[project property]_  
+> out path: generate file out path   _[project property]_  
+---
+**How to use**
+> 1.`properties`->`refresh` refresh the panel  
+> 2.`properties`->`setting` this program base config  
+> 3.`ChoseAll` chose all item in list  
+> 4.`ClearChose` clear all selected item  
+> 5.`Gen` begin generate all selected item
